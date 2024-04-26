@@ -1,1 +1,7 @@
-# Swarn-Intelligence_Cuckoo-Search
+# Swarn Intelligence - Implementation of Cuckoo Search on the Best Distance from Jakarta to Malang Using the Traveling Salesman Problem Method
+
+In today's era, we are facilitated in the shipment of goods from one city to another. In this process, courier services such as JNE, JNT, and Sicepat are commonly used. In the context of these deliveries, couriers are tasked with efficiently transporting numerous items to customers in different cities. However, in contemporary times, the abundance of roadways sometimes poses a challenge for postal workers to select the fastest route to the customer's destination. Typically, the chosen route is one that is memorized, frequently traveled, and considered the shortest, although it may not necessarily be the most optimal. This ongoing issue is closely related to the topic of my Research-Based Learning (RBL) project, namely the Traveling Salesman Problem (TSP). The TSP is a problem where a salesman aims to visit several locations, returning to the starting point exactly once, to determine the shortest possible distance.
+
+Group 4 Project Presentation
+
+Embark on a journey of optimization with our project, 'Swarm Intelligence.' We are implementing the innovative Cuckoo Search algorithm to find the most efficient route from Jakarta to Malang using the Traveling Salesman Problem method. Witness the power of nature-inspired algorithms in streamlining courier services, enhancing delivery routes, and minimizing travel distances. Join us in revolutionizing logistics through intelligent computation and cutting-edge optimization techniques.
